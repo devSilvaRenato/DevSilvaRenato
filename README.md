@@ -17,7 +17,7 @@ Olá! Me chamo Renato e sou Desenvolvedor de Software junior. Sou apaixonado por
 Estou sempre aberto a colaborações e contribuições para projetos interessantes. Se você tem ideias para trabalhar em conjunto ou gostaria de contribuir para algum dos meus projetos, não hesite em entrar em contato!
 
 ## Estatísticas do GitHub
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?devSilvaRenato=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devSilvaRenato)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Agradecimentos
 Obrigado por visitar o meu perfil do GitHub! Sinta-se à vontade para explorar meus projetos e entrar em contato se tiver alguma pergunta ou sugestão.
