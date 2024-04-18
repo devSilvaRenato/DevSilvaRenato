@@ -1,16 +1,24 @@
-### Hi there 👋
+# Bem-vindo ao meu perfil do GitHub! 👋
 
-<!--
-**devSilvaRenato/DevSilvaRenato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
+Olá! Me chamo Renato e sou Desenvolvedor de Software junior. Sou apaixonado por tecnologia e estou sempre em busca de aprender coisas novas. Este é o meu local no GitHub, onde compartilho projetos, experimentos e contribuições para a comunidade.
 
-Here are some ideas to get you started:
+## Principais Tecnologias e Interesses
+- Linguagens de Programação: HTML, CSS, Javascript , Python e MySQL
+- Tecnologias: Django e React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Como Entrar em Contato
+- LinkedIn: [https://www.linkedin.com/in/renato-da-silva-oliveira/](https://www.linkedin.com/in/renato-da-silva-oliveira/)
+- Email: silvarenatoh2@hotmai.com
+
+
+## Contribuições e Colaborações
+Estou sempre aberto a colaborações e contribuições para projetos interessantes. Se você tem ideias para trabalhar em conjunto ou gostaria de contribuir para algum dos meus projetos, não hesite em entrar em contato!
+
+## Estatísticas do GitHub
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?devSilvaRenato=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+## Agradecimentos
+Obrigado por visitar o meu perfil do GitHub! Sinta-se à vontade para explorar meus projetos e entrar em contato se tiver alguma pergunta ou sugestão.
+
